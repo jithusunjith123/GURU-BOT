@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['917736720228', 'jithu', true],
-  ['6281255369012', 'Ash', true], 
+  ['48729751714', 'rolexff', true], 
   [''] 
 ] //Number of owners
 
@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'rolex'
 global.premium = 'true'
-global.packname = 'rolex┃' 
+global.packname = 'rolex' 
 global.author = '@Asliguru' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
